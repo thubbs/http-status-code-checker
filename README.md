@@ -1,4 +1,4 @@
-# HTTP status code hecker
+# HTTP status code checker
 
 Check a list of URLs for their HTML status code. Any URL not returning a 200 (OK) status is displayed to the user.
 
