@@ -8,7 +8,7 @@ urls = [
 	"https://www.wikipedia.org",
 	]
 #Set number of seconds between checking URLs
-sleep_time = 21.5
+sleep_time = 30
 #Set number of times to loop through URLs
 loops = 100
 
